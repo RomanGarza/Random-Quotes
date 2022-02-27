@@ -112,3 +112,11 @@ p {
     margin-top: 0.5em;
   }
 }
+
+
+/*  */
+#particles-js {
+    position:fixed;
+    width:100vw;
+    height:100vh;
+}
