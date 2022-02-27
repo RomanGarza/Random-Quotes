@@ -16,7 +16,7 @@ body {
     padding: 12rem;
 }    
 
-#quote-box {
+#quote, #author {
     border-radius: 15px;
     padding: 10px;
     margin-bottom: 15px;
@@ -41,9 +41,8 @@ p {
 
 .title:hover {
     color:white;
-    transition: all .2s;
-}
-
+    transition: all .4s;
+    }
 /* btn styles */
 .btn {
  position: relative;
